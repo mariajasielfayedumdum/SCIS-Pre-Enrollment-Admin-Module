@@ -1,0 +1,1 @@
+<footer class="footer text-center"> 2017 &copy; IT/CS Department Practicum 2 Students </footer>
